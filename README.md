@@ -1,5 +1,4 @@
 # OREO
-A knowledge backup
 
 A knowledge backup
 
