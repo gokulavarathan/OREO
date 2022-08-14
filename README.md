@@ -4,7 +4,7 @@ A knowledge backup
 
 ##########################################################################
 
-DEFAULT PACKAGES npm i express body-parse mongoose morgan nodemon pm2
+DEFAULT PACKAGES npm i express body-parse mongoose morgan nodemon pm2 cors
 
 #############################################################################
 
