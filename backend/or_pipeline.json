@@ -1,0 +1,137 @@
+[{
+  "_id": {
+    "$oid": "62f882fa7650269d54720973"
+  },
+  "user_id": "5f0b311034316ac0587e38af",
+  "teckstack": "MERN",
+  "exp": 10,
+  "sal": "10l"
+},{
+  "_id": {
+    "$oid": "62f882fa7650269d54720974"
+  },
+  "user_id": "5f0b321334316ac0587e38b3",
+  "teckstack": "MEAN",
+  "exp": 1,
+  "sal": "10l"
+},{
+  "_id": {
+    "$oid": "62f882fa7650269d54720975"
+  },
+  "user_id": "5f0b327334316ac0587e38b5",
+  "teckstack": "PHP",
+  "exp": 5,
+  "sal": "10l"
+},{
+  "_id": {
+    "$oid": "62f882fa7650269d54720976"
+  },
+  "user_id": "5f0b3f3dc5d40767add5341e",
+  "teckstack": "MERN",
+  "exp": 10,
+  "sal": "10l"
+},{
+  "_id": {
+    "$oid": "62f882fa7650269d54720977"
+  },
+  "user_id": "5f0b4698c5d40767add53426",
+  "teckstack": "MEAN",
+  "exp": 1,
+  "sal": "10l"
+},{
+  "_id": {
+    "$oid": "62f882fa7650269d54720978"
+  },
+  "user_id": "5f0c57324f18762f78cd2520",
+  "teckstack": "PHP",
+  "exp": 5,
+  "sal": "10l"
+},{
+  "_id": {
+    "$oid": "62f882fa7650269d54720979"
+  },
+  "user_id": "5f0c70e74f18762f78cd2523",
+  "teckstack": "MERN",
+  "exp": 10,
+  "sal": "10l"
+},{
+  "_id": {
+    "$oid": "62f882fa7650269d5472097a"
+  },
+  "user_id": "5f0c7cb27c451aa47557d527",
+  "teckstack": "MEAN",
+  "exp": 1,
+  "sal": "10l"
+},{
+  "_id": {
+    "$oid": "62f882fa7650269d5472097b"
+  },
+  "user_id": "5f0c7d3c7c451aa47557d52a",
+  "teckstack": "PHP",
+  "exp": 5,
+  "sal": "10l"
+},{
+  "_id": {
+    "$oid": "62f882fa7650269d5472097c"
+  },
+  "user_id": "5f0c8ce815f0968e977d8e37",
+  "teckstack": "MERN",
+  "exp": 10,
+  "sal": "10l"
+},{
+  "_id": {
+    "$oid": "62f882fa7650269d5472097d"
+  },
+  "user_id": "5f0c8d7215f0968e977d8e38",
+  "teckstack": "MEAN",
+  "exp": 1,
+  "sal": "10l"
+},{
+  "_id": {
+    "$oid": "62f882fa7650269d5472097e"
+  },
+  "user_id": "5f0c8dcf15f0968e977d8e39",
+  "teckstack": "PHP",
+  "exp": 5,
+  "sal": "10l"
+},{
+  "_id": {
+    "$oid": "62f882fa7650269d5472097f"
+  },
+  "user_id": "5f0d9da44574482708d378b3",
+  "teckstack": "MEAN",
+  "exp": 1,
+  "sal": "10l"
+},{
+  "_id": {
+    "$oid": "62f882fa7650269d54720980"
+  },
+  "user_id": "5f0d9e1b4574482708d378b4",
+  "teckstack": "MERN",
+  "exp": 10,
+  "sal": "10l"
+},{
+  "_id": {
+    "$oid": "62f882fa7650269d54720981"
+  },
+  "user_id": "5f0d9e934574482708d378b5",
+  "teckstack": "PHP",
+  "exp": 5,
+  "sal": "20l"
+},{
+  "_id": {
+    "$oid": "62f882fa7650269d54720982"
+  },
+  "user_id": "5f0d9f124574482708d378b6",
+  "teckstack": "MERN",
+  "exp": 10,
+  "sal": "10l"
+},{
+  "_id": {
+    "$oid": "62f882fa7650269d54720983"
+  },
+  "user_id": "5f0d9f824574482708d378b7",
+  "teckstack": "PHP",
+  "exp": 5,
+  "sal": "20l"
+}]

@@ -1,0 +1,175 @@
+[{
+  "_id": {
+    "$oid": "5f0b311034316ac0587e38af"
+  },
+  "name": "Jessica",
+  "age": 28,
+  "favoriteFoods": [
+    "prawns",
+    "shrimp"
+  ]
+},{
+  "_id": {
+    "$oid": "5f0b321334316ac0587e38b3"
+  },
+  "name": "Kris",
+  "age": 42,
+  "favoriteFoods": [
+    "curry",
+    "toast"
+  ]
+},{
+  "_id": {
+    "$oid": "5f0b327334316ac0587e38b5"
+  },
+  "name": "Kris",
+  "age": 45,
+  "favoriteFoods": [
+    "tacos",
+    "dumplings"
+  ]
+},{
+  "_id": {
+    "$oid": "5f0b3f3dc5d40767add5341e"
+  },
+  "name": "Lucy",
+  "age": 38,
+  "favoriteFoods": [
+    "prawns",
+    "lobster",
+    "tuna"
+  ]
+},{
+  "_id": {
+    "$oid": "5f0b4698c5d40767add53426"
+  },
+  "name": "Mark",
+  "age": 26,
+  "favoriteFoods": [
+    "Roast Chicken",
+    "Fried Rice"
+  ]
+},{
+  "_id": {
+    "$oid": "5f0c57324f18762f78cd2520"
+  },
+  "name": "Natalie",
+  "age": 34,
+  "favoriteFoods": [
+    "Garlic Bread"
+  ]
+},{
+  "_id": {
+    "$oid": "5f0c70e74f18762f78cd2523"
+  },
+  "name": "Oliver",
+  "age": 25,
+  "favoriteFoods": [
+    "Stir Fry",
+    "Roast Chicken"
+  ]
+},{
+  "_id": {
+    "$oid": "5f0c7cb27c451aa47557d527"
+  },
+  "name": "Poppy",
+  "age": 45,
+  "favoriteFoods": [
+    "Kebab",
+    "Chips"
+  ]
+},{
+  "_id": {
+    "$oid": "5f0c7d3c7c451aa47557d52a"
+  },
+  "name": "Quincy",
+  "age": 35,
+  "favoriteFoods": [
+    "Hamburger",
+    "Chips"
+  ]
+},{
+  "_id": {
+    "$oid": "5f0c8ce815f0968e977d8e37"
+  },
+  "name": "Rosie",
+  "age": 23,
+  "favoriteFoods": [
+    "Avocado",
+    "Cucumber"
+  ]
+},{
+  "_id": {
+    "$oid": "5f0c8d7215f0968e977d8e38"
+  },
+  "name": "Steve",
+  "age": 46,
+  "favoriteFoods": [
+    "Chow Mein",
+    "Chicken Stew"
+  ]
+},{
+  "_id": {
+    "$oid": "5f0c8dcf15f0968e977d8e39"
+  },
+  "name": "Tina",
+  "age": 17,
+  "favoriteFoods": [
+    "Mackrel",
+    "Salad"
+  ]
+},{
+  "_id": {
+    "$oid": "5f0d9da44574482708d378b3"
+  },
+  "name": "Umberto",
+  "age": 34,
+  "favoriteFoods": [
+    "Fried Rice",
+    "Salad"
+  ]
+},{
+  "_id": {
+    "$oid": "5f0d9e1b4574482708d378b4"
+  },
+  "name": "Victoria",
+  "age": 62,
+  "favoriteFoods": [
+    "Prawns",
+    "Tofu",
+    "Salad"
+  ]
+},{
+  "_id": {
+    "$oid": "5f0d9e934574482708d378b5"
+  },
+  "name": "Xavier",
+  "age": 23,
+  "favoriteFoods": [
+    "Roast Potatoes",
+    "Salad",
+    "Curry"
+  ]
+},{
+  "_id": {
+    "$oid": "5f0d9f124574482708d378b6"
+  },
+  "name": "Yasmin",
+  "age": 16,
+  "favoriteFoods": [
+    "Stir Fry",
+    "Roast Chicken",
+    "Salad"
+  ]
+},{
+  "_id": {
+    "$oid": "5f0d9f824574482708d378b7"
+  },
+  "name": "Zach",
+  "age": 29,
+  "favoriteFoods": [
+    "Hamburger",
+    "Salad",
+    "Chips"
+  ]
+}]
